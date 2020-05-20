@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jogo-da-velha"
+    }
+  },
+  "defaultProject": "jogo-da-velha",
+  "cli": {
+    "analytics": "8124e252-51e6-45ba-bd3d-14340865937b"
+  }
 }
